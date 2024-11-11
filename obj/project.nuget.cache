@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jH8dI/U1l6FzONi+VOOPlylF6i97Fgh9+11hkPSUmeaq8svVf57R2kgl6vgXQD/W+7aNqJrM3DY4w/X65LwDtw==",
+  "success": true,
+  "projectFilePath": "/Users/salt-dev/MyDotNetConsoleApp/MyDotNetConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/salt-dev/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/Users/salt-dev/MyDotNetConsoleApp/bin/Debug/net8.0/MyDotNetConsoleApp
+/Users/salt-dev/MyDotNetConsoleApp/bin/Debug/net8.0/MyDotNetConsoleApp.deps.json
+/Users/salt-dev/MyDotNetConsoleApp/bin/Debug/net8.0/MyDotNetConsoleApp.runtimeconfig.json
+/Users/salt-dev/MyDotNetConsoleApp/bin/Debug/net8.0/MyDotNetConsoleApp.dll
+/Users/salt-dev/MyDotNetConsoleApp/bin/Debug/net8.0/MyDotNetConsoleApp.pdb
+/Users/salt-dev/MyDotNetConsoleApp/bin/Debug/net8.0/System.Text.Json.dll
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/MyDotNetConsoleApp.csproj.AssemblyReference.cache
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/MyDotNetConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/MyDotNetConsoleApp.AssemblyInfoInputs.cache
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/MyDotNetConsoleApp.AssemblyInfo.cs
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/MyDotNetConsoleApp.csproj.CoreCompileInputs.cache
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/MyDotNet.46CE1C0F.Up2Date
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/MyDotNetConsoleApp.dll
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/refint/MyDotNetConsoleApp.dll
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/MyDotNetConsoleApp.pdb
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/MyDotNetConsoleApp.genruntimeconfig.cache
+/Users/salt-dev/MyDotNetConsoleApp/obj/Debug/net8.0/ref/MyDotNetConsoleApp.dll
